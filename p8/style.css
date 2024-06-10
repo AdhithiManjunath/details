@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 50px;
+}
+
+label, input {
+    display: block;
+    margin: 10px 0;
+}
+
+.result {
+    margin-top: 20px;
+    font-weight: bold;
+}
